@@ -1,0 +1,914 @@
+{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+            },
+            "followers": {
+                "href": null,
+                "total": 459950
+            },
+            "genres": [
+                "ambient",
+                "electronic",
+                "intelligent dance music",
+                "trip hop"
+            ],
+            "href": "https://api.spotify.com/v1/artists/6kBDZFXuLrZgHnvmPu9NsG",
+            "id": "6kBDZFXuLrZgHnvmPu9NsG",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/5630c4ae80c6d8cb16f021fdf5b4fc28c90420ab",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/a32a5f5bf9403b084752aec85a5bc3bba1677d1c",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/9b7f4964f60406ace00cd8c33ccc9147a005fae4",
+                    "width": 160
+                }
+            ],
+            "name": "Aphex Twin",
+            "popularity": 65,
+            "type": "artist",
+            "uri": "spotify:artist:6kBDZFXuLrZgHnvmPu9NsG"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
+            },
+            "followers": {
+                "href": null,
+                "total": 52719
+            },
+            "genres": [
+                "abstract",
+                "ambient",
+                "big beat",
+                "deep idm",
+                "drill and bass",
+                "electronic",
+                "intelligent dance music",
+                "microhouse",
+                "minimal techno",
+                "ninja",
+                "trip hop",
+                "wonky"
+            ],
+            "href": "https://api.spotify.com/v1/artists/5akVqMzdZOdbMYbE4vNZWD",
+            "id": "5akVqMzdZOdbMYbE4vNZWD",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/eba11c60809e7fa98e0361cc6ee0873c30ac33e6",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/17378a2c5eebb1eed197b36a8ec607d913ddf189",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/9bdd04011fac53b96a36225be489891c1677dc0e",
+                    "width": 160
+                }
+            ],
+            "name": "Plaid",
+            "popularity": 51,
+            "type": "artist",
+            "uri": "spotify:artist:5akVqMzdZOdbMYbE4vNZWD"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
+            },
+            "followers": {
+                "href": null,
+                "total": 74088
+            },
+            "genres": [
+                "bass music",
+                "chillwave",
+                "deep idm",
+                "drill and bass",
+                "electronic",
+                "indietronica",
+                "intelligent dance music",
+                "microhouse",
+                "minimal techno",
+                "ninja",
+                "trip hop",
+                "wonky"
+            ],
+            "href": "https://api.spotify.com/v1/artists/6kic5bCjlohhDn9KzXbOta",
+            "id": "6kic5bCjlohhDn9KzXbOta",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/99c03835d6c8f9426857c94320b5be58e7c82087",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/257a1cf35f3e6fd74d2dd561b5ef1c7919941866",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/4a024f34521b51e0319bc09db8c971933f8f1234",
+                    "width": 160
+                }
+            ],
+            "name": "Clark",
+            "popularity": 45,
+            "type": "artist",
+            "uri": "spotify:artist:6kic5bCjlohhDn9KzXbOta"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko"
+            },
+            "followers": {
+                "href": null,
+                "total": 96876
+            },
+            "genres": [
+                "abstract",
+                "drill and bass",
+                "electronic",
+                "intelligent dance music",
+                "ninja",
+                "trip hop"
+            ],
+            "href": "https://api.spotify.com/v1/artists/4mtHSXwIHihO6MWNq5Qoko",
+            "id": "4mtHSXwIHihO6MWNq5Qoko",
+            "images": [
+                {
+                    "height": 750,
+                    "url": "https://i.scdn.co/image/a8c1abbfa357f50e5693eae7f1181ad7e3876771",
+                    "width": 1000
+                },
+                {
+                    "height": 480,
+                    "url": "https://i.scdn.co/image/482a1106c8003f21c68ec4fd4359ed8ba9ddfd52",
+                    "width": 640
+                },
+                {
+                    "height": 150,
+                    "url": "https://i.scdn.co/image/e4dfd03e73d5bcaf604d44d8174785fbd67ee8c3",
+                    "width": 200
+                },
+                {
+                    "height": 48,
+                    "url": "https://i.scdn.co/image/7c7f6d0dc1673830a9c191916f08effb8c17fef0",
+                    "width": 64
+                }
+            ],
+            "name": "Squarepusher",
+            "popularity": 45,
+            "type": "artist",
+            "uri": "spotify:artist:4mtHSXwIHihO6MWNq5Qoko"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+            },
+            "followers": {
+                "href": null,
+                "total": 95918
+            },
+            "genres": [
+                "abstract",
+                "ambient",
+                "ambient techno",
+                "art pop",
+                "bass music",
+                "british experimental",
+                "dark jazz",
+                "deep idm",
+                "detroit techno",
+                "drill and bass",
+                "drone",
+                "dub techno",
+                "electro",
+                "electronic",
+                "experimental",
+                "experimental rock",
+                "fourth world",
+                "glitch",
+                "industrial",
+                "intelligent dance music",
+                "mandible",
+                "microhouse",
+                "minimal techno",
+                "ninja",
+                "outsider house",
+                "techno",
+                "trip hop",
+                "vaporwave"
+            ],
+            "href": "https://api.spotify.com/v1/artists/6WH1V41LwGDGmlPUhSZLHO",
+            "id": "6WH1V41LwGDGmlPUhSZLHO",
+            "images": [
+                {
+                    "height": 1000,
+                    "url": "https://i.scdn.co/image/8e6c2c6e038b195c75c24a438482683ff91c1768",
+                    "width": 1000
+                },
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/acec29c2fcffdca2d4c31736d79402826f6b7424",
+                    "width": 640
+                },
+                {
+                    "height": 200,
+                    "url": "https://i.scdn.co/image/79149a3e0f4178fc3656f9b5c0783db4077528b1",
+                    "width": 200
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/bd635462cc46a35145515b63a8c19cc7c1c8a685",
+                    "width": 64
+                }
+            ],
+            "name": "Autechre",
+            "popularity": 46,
+            "type": "artist",
+            "uri": "spotify:artist:6WH1V41LwGDGmlPUhSZLHO"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6ULjGlnhcCwHIJigN47K5U"
+            },
+            "followers": {
+                "href": null,
+                "total": 38331
+            },
+            "genres": [
+                "deep idm",
+                "drill and bass",
+                "electro",
+                "electronic",
+                "intelligent dance music"
+            ],
+            "href": "https://api.spotify.com/v1/artists/6ULjGlnhcCwHIJigN47K5U",
+            "id": "6ULjGlnhcCwHIJigN47K5U",
+            "images": [
+                {
+                    "height": 650,
+                    "url": "https://i.scdn.co/image/c82e5ab616103c3f58ad3b1b154753ace7137d6c",
+                    "width": 650
+                },
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/506825272c23118b0aa973307f09acbca5c8f54f",
+                    "width": 640
+                },
+                {
+                    "height": 200,
+                    "url": "https://i.scdn.co/image/1ca4f35338f71304cd7ea9935083e75ef682d11b",
+                    "width": 200
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/e2c6debf8dba76f4257fa0ecfa719e64b5a7cdd2",
+                    "width": 64
+                }
+            ],
+            "name": "AFX",
+            "popularity": 33,
+            "type": "artist",
+            "uri": "spotify:artist:6ULjGlnhcCwHIJigN47K5U"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X"
+            },
+            "followers": {
+                "href": null,
+                "total": 31519
+            },
+            "genres": [
+                "bass music",
+                "deep idm",
+                "drill and bass",
+                "electronic",
+                "intelligent dance music",
+                "ninja",
+                "trip hop"
+            ],
+            "href": "https://api.spotify.com/v1/artists/7AiamoV760pPGGM5PbOC6X",
+            "id": "7AiamoV760pPGGM5PbOC6X",
+            "images": [
+                {
+                    "height": 1509,
+                    "url": "https://i.scdn.co/image/759b3e8bcb4692fecebef0c505c69ec63977fcab",
+                    "width": 1000
+                },
+                {
+                    "height": 966,
+                    "url": "https://i.scdn.co/image/b28a2cd4fc89a569d3e44ac81566f5b75dd70346",
+                    "width": 640
+                },
+                {
+                    "height": 302,
+                    "url": "https://i.scdn.co/image/79b61db1c9466f2f3e005c65386396deccd7e008",
+                    "width": 200
+                },
+                {
+                    "height": 97,
+                    "url": "https://i.scdn.co/image/7fefc0ffa457cd284da0aa38695a77bd2198664f",
+                    "width": 64
+                }
+            ],
+            "name": "\u00b5-Ziq",
+            "popularity": 36,
+            "type": "artist",
+            "uri": "spotify:artist:7AiamoV760pPGGM5PbOC6X"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
+            },
+            "followers": {
+                "href": null,
+                "total": 26815
+            },
+            "genres": [
+                "abstract",
+                "ambient",
+                "art pop",
+                "compositional ambient",
+                "dark jazz",
+                "drill and bass",
+                "drone",
+                "dub techno",
+                "electronic",
+                "fourth world",
+                "intelligent dance music",
+                "j-ambient",
+                "japanese electronic",
+                "microhouse",
+                "minimal techno"
+            ],
+            "href": "https://api.spotify.com/v1/artists/3ND5NWoKzlelYDDyWqSQpQ",
+            "id": "3ND5NWoKzlelYDDyWqSQpQ",
+            "images": [
+                {
+                    "height": 500,
+                    "url": "https://i.scdn.co/image/f39230585c8556eb40b2275b31f4b821c0d92953",
+                    "width": 500
+                },
+                {
+                    "height": 200,
+                    "url": "https://i.scdn.co/image/a3f1274f864d09e97e5da1be9cb5725bb969c31f",
+                    "width": 200
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/5c2f49e6c95ca704b96c2c270f153a5b3d9c7fd2",
+                    "width": 64
+                }
+            ],
+            "name": "Susumu Yokota",
+            "popularity": 46,
+            "type": "artist",
+            "uri": "spotify:artist:3ND5NWoKzlelYDDyWqSQpQ"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+            },
+            "followers": {
+                "href": null,
+                "total": 327244
+            },
+            "genres": [
+                "alternative dance",
+                "chamber psych",
+                "chillwave",
+                "electronic",
+                "folktronica",
+                "indietronica",
+                "intelligent dance music",
+                "microhouse",
+                "new rave",
+                "nu jazz",
+                "trip hop"
+            ],
+            "href": "https://api.spotify.com/v1/artists/7Eu1txygG6nJttLHbZdQOh",
+            "id": "7Eu1txygG6nJttLHbZdQOh",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/f96458025a0640bf1d3c8f764a42ec21d4db1eae",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/4547d5656309079fdfc73bef86a3c327cd59a3ea",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/e512f91d540d864906d36a850ecb9ad5d562d262",
+                    "width": 160
+                }
+            ],
+            "name": "Four Tet",
+            "popularity": 65,
+            "type": "artist",
+            "uri": "spotify:artist:7Eu1txygG6nJttLHbZdQOh"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2qhmNI4ZHPpeDutdg473Z3"
+            },
+            "followers": {
+                "href": null,
+                "total": 63049
+            },
+            "genres": [
+                "abstract",
+                "ambient",
+                "big beat",
+                "breakbeat",
+                "drill and bass",
+                "drum and bass",
+                "electronic",
+                "hardcore techno",
+                "intelligent dance music",
+                "trip hop"
+            ],
+            "href": "https://api.spotify.com/v1/artists/2qhmNI4ZHPpeDutdg473Z3",
+            "id": "2qhmNI4ZHPpeDutdg473Z3",
+            "images": [
+                {
+                    "height": 665,
+                    "url": "https://i.scdn.co/image/528affaa7b4b027edfc283c5cd67b219347171e4",
+                    "width": 1000
+                },
+                {
+                    "height": 425,
+                    "url": "https://i.scdn.co/image/56d3fb005d131cb2f8e3675a594942d80b861141",
+                    "width": 639
+                },
+                {
+                    "height": 133,
+                    "url": "https://i.scdn.co/image/911bcb89ad17ca58e92c5c37d5afd49e612158b7",
+                    "width": 200
+                },
+                {
+                    "height": 43,
+                    "url": "https://i.scdn.co/image/bfd9fc035a1a6ae5d9040a2eefa897fd721111bb",
+                    "width": 64
+                }
+            ],
+            "name": "The Future Sound Of London",
+            "popularity": 45,
+            "type": "artist",
+            "uri": "spotify:artist:2qhmNI4ZHPpeDutdg473Z3"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq"
+            },
+            "followers": {
+                "href": null,
+                "total": 21247
+            },
+            "genres": [
+                "ambient techno",
+                "deep idm",
+                "detroit techno",
+                "drill and bass",
+                "dub techno",
+                "electronic",
+                "intelligent dance music",
+                "microhouse",
+                "minimal techno",
+                "techno",
+                "trip hop"
+            ],
+            "href": "https://api.spotify.com/v1/artists/7qdsk0UXx2jCX7jbp6rxeq",
+            "id": "7qdsk0UXx2jCX7jbp6rxeq",
+            "images": [
+                {
+                    "height": 1000,
+                    "url": "https://i.scdn.co/image/d52c8bb78570f91c3f2a90ce09f2d1809c6f532d",
+                    "width": 1000
+                },
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/01ffab20313cca9b5d95b70a97d02e85a79a03c7",
+                    "width": 640
+                },
+                {
+                    "height": 200,
+                    "url": "https://i.scdn.co/image/a8a6fcb2863be6200d9d27ea8a0e929f92097234",
+                    "width": 200
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/6eb89c78f0020d2ba36214f247b9acaf6634789e",
+                    "width": 64
+                }
+            ],
+            "name": "The Black Dog",
+            "popularity": 37,
+            "type": "artist",
+            "uri": "spotify:artist:7qdsk0UXx2jCX7jbp6rxeq"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5xMtVcziLHpIwD9iNWPOM6"
+            },
+            "followers": {
+                "href": null,
+                "total": 13059
+            },
+            "genres": [
+                "deep idm",
+                "drill and bass",
+                "electronica",
+                "intelligent dance music"
+            ],
+            "href": "https://api.spotify.com/v1/artists/5xMtVcziLHpIwD9iNWPOM6",
+            "id": "5xMtVcziLHpIwD9iNWPOM6",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/453e6486f978062fd373b248349e4d41fc7fb88e",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/a5c2f143d70a9c986bfb868d287198915ac26947",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/fe208bc821a738358268bc60271ab36c21b189e4",
+                    "width": 64
+                }
+            ],
+            "name": "Casino Versus Japan",
+            "popularity": 40,
+            "type": "artist",
+            "uri": "spotify:artist:5xMtVcziLHpIwD9iNWPOM6"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE"
+            },
+            "followers": {
+                "href": null,
+                "total": 52216
+            },
+            "genres": [
+                "ambient",
+                "electronic",
+                "german electronica",
+                "intelligent dance music",
+                "nu gaze",
+                "shoegaze"
+            ],
+            "href": "https://api.spotify.com/v1/artists/4znPt0HV6Ik0iR8sR4GAJE",
+            "id": "4znPt0HV6Ik0iR8sR4GAJE",
+            "images": [
+                {
+                    "height": 184,
+                    "url": "https://i.scdn.co/image/386487df9dfa7d5cb196f6ec056d555b14efc02d",
+                    "width": 273
+                },
+                {
+                    "height": 135,
+                    "url": "https://i.scdn.co/image/3f722d2b163118947d8d4d7ff13f0bc7c529ef86",
+                    "width": 200
+                },
+                {
+                    "height": 43,
+                    "url": "https://i.scdn.co/image/908aaf1ebf5ab76d9e96074b17ce59ece899bba7",
+                    "width": 64
+                }
+            ],
+            "name": "Ulrich Schnauss",
+            "popularity": 47,
+            "type": "artist",
+            "uri": "spotify:artist:4znPt0HV6Ik0iR8sR4GAJE"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2fMe9lZs5HGGOwh8cMSIub"
+            },
+            "followers": {
+                "href": null,
+                "total": 38981
+            },
+            "genres": [
+                "chillwave",
+                "drill and bass",
+                "electronic",
+                "intelligent dance music",
+                "microhouse",
+                "minimal techno",
+                "wonky"
+            ],
+            "href": "https://api.spotify.com/v1/artists/2fMe9lZs5HGGOwh8cMSIub",
+            "id": "2fMe9lZs5HGGOwh8cMSIub",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/be948d64b498d3b3c1cedd19ca44bfef5e1b9e1c",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/99e655582d2e2b414cfed9c7d7e6170bbaa6955c",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/0ff0a59229debeb46f202e6e8d9653e9e03e7e67",
+                    "width": 160
+                }
+            ],
+            "name": "Lusine",
+            "popularity": 46,
+            "type": "artist",
+            "uri": "spotify:artist:2fMe9lZs5HGGOwh8cMSIub"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO"
+            },
+            "followers": {
+                "href": null,
+                "total": 143397
+            },
+            "genres": [
+                "big beat",
+                "drill and bass",
+                "electronic",
+                "intelligent dance music",
+                "ninja",
+                "nu jazz",
+                "trip hop",
+                "wonky"
+            ],
+            "href": "https://api.spotify.com/v1/artists/3mvkWMe6swnknwscwvGCHO",
+            "id": "3mvkWMe6swnknwscwvGCHO",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/bac66b9e6a013b927ca48e4800428a4b287af7ca",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/77f6141be7d185e1c9bf46703a177beb687c6635",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/588e4da50ce0f9e4ddc016946c76bdf13b6958e2",
+                    "width": 160
+                }
+            ],
+            "name": "Amon Tobin",
+            "popularity": 51,
+            "type": "artist",
+            "uri": "spotify:artist:3mvkWMe6swnknwscwvGCHO"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0OmHDBh5styCXDWKwz58Ts"
+            },
+            "followers": {
+                "href": null,
+                "total": 14922
+            },
+            "genres": [
+                "ambient idm",
+                "deep idm",
+                "drill and bass",
+                "electronic",
+                "electronica",
+                "intelligent dance music",
+                "new tribe"
+            ],
+            "href": "https://api.spotify.com/v1/artists/0OmHDBh5styCXDWKwz58Ts",
+            "id": "0OmHDBh5styCXDWKwz58Ts",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/fa72dc81dd07c8dc7aba8d44454173e723344d1c",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/c5cbe218a380f661131aef1335de9c8fbe6ae367",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/28917c655027af28e51f2e14d4afc70a0aa9df9d",
+                    "width": 160
+                }
+            ],
+            "name": "Ochre",
+            "popularity": 40,
+            "type": "artist",
+            "uri": "spotify:artist:0OmHDBh5styCXDWKwz58Ts"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6D5qrT7NQXcdvFTtCJNszl"
+            },
+            "followers": {
+                "href": null,
+                "total": 14529
+            },
+            "genres": [
+                "bass music",
+                "drill and bass",
+                "electronic",
+                "intelligent dance music",
+                "microhouse",
+                "ninja",
+                "wonky"
+            ],
+            "href": "https://api.spotify.com/v1/artists/6D5qrT7NQXcdvFTtCJNszl",
+            "id": "6D5qrT7NQXcdvFTtCJNszl",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/2667ea66bf4b4796795b89f0363439b5f3e1788a",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/87b7f2a6c98223e614190805d520abc8858f5bbc",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/849662c04437990f26ca35f93a612671e0855f25",
+                    "width": 160
+                }
+            ],
+            "name": "Kelpe",
+            "popularity": 43,
+            "type": "artist",
+            "uri": "spotify:artist:6D5qrT7NQXcdvFTtCJNszl"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+            },
+            "followers": {
+                "href": null,
+                "total": 43306
+            },
+            "genres": [
+                "abstract",
+                "ambient",
+                "compositional ambient",
+                "dark jazz",
+                "drift",
+                "drone",
+                "dub techno",
+                "electronic",
+                "fourth world",
+                "intelligent dance music",
+                "mandible",
+                "microhouse",
+                "minimal techno",
+                "warm drone"
+            ],
+            "href": "https://api.spotify.com/v1/artists/2rcnAZ6DvORQ365X3zVYpr",
+            "id": "2rcnAZ6DvORQ365X3zVYpr",
+            "images": [
+                {
+                    "height": 665,
+                    "url": "https://i.scdn.co/image/27d5f3835207c457a51e06dfad8ead34d75901ea",
+                    "width": 1000
+                },
+                {
+                    "height": 426,
+                    "url": "https://i.scdn.co/image/7e7e02c4025dcab8f8e7567116b6bc3f74664393",
+                    "width": 640
+                },
+                {
+                    "height": 133,
+                    "url": "https://i.scdn.co/image/aa3e10b91a10bef3cb571c69bdfbe43de71b8313",
+                    "width": 200
+                },
+                {
+                    "height": 43,
+                    "url": "https://i.scdn.co/image/f31758456ebfb777cad5623da0a303d64d104da2",
+                    "width": 64
+                }
+            ],
+            "name": "Biosphere",
+            "popularity": 49,
+            "type": "artist",
+            "uri": "spotify:artist:2rcnAZ6DvORQ365X3zVYpr"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv"
+            },
+            "followers": {
+                "href": null,
+                "total": 26710
+            },
+            "genres": [
+                "acid house",
+                "bass music",
+                "deep idm",
+                "detroit techno",
+                "drill and bass",
+                "electro",
+                "electronic",
+                "hardcore techno",
+                "intelligent dance music",
+                "ninja",
+                "techno",
+                "trip hop"
+            ],
+            "href": "https://api.spotify.com/v1/artists/0HfxCluo7N2dhr4oRM0wBv",
+            "id": "0HfxCluo7N2dhr4oRM0wBv",
+            "images": [
+                {
+                    "height": 1012,
+                    "url": "https://i.scdn.co/image/fa11c8bfd85c94aeeafbca8fe678c544986aa07c",
+                    "width": 1000
+                },
+                {
+                    "height": 648,
+                    "url": "https://i.scdn.co/image/5ba4f4f2471a7fbf7e6c89cc74a041c5c30e9437",
+                    "width": 640
+                },
+                {
+                    "height": 202,
+                    "url": "https://i.scdn.co/image/d1c87e9bf09cfe63e363c2e388b493d06c293bee",
+                    "width": 200
+                },
+                {
+                    "height": 65,
+                    "url": "https://i.scdn.co/image/64701bb257436599501dead182f6c51323d8bea4",
+                    "width": 64
+                }
+            ],
+            "name": "Luke Vibert",
+            "popularity": 38,
+            "type": "artist",
+            "uri": "spotify:artist:0HfxCluo7N2dhr4oRM0wBv"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+            },
+            "followers": {
+                "href": null,
+                "total": 265631
+            },
+            "genres": [
+                "ambient",
+                "compositional ambient",
+                "electronic",
+                "fourth world"
+            ],
+            "href": "https://api.spotify.com/v1/artists/7yxi31szvlbwvKq9dYOmFI",
+            "id": "7yxi31szvlbwvKq9dYOmFI",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/d08b01ee2770ad63a37edcf9a68950e95bdff70b",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/6d1883bbb371fc259dd77298d27191935947e47c",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/7ab4f32791827e5867c7739e0f86c748fd429de4",
+                    "width": 160
+                }
+            ],
+            "name": "Jon Hopkins",
+            "popularity": 64,
+            "type": "artist",
+            "uri": "spotify:artist:7yxi31szvlbwvKq9dYOmFI"
+        }
+    ]
+}

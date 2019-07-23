@@ -1,0 +1,76 @@
+{
+    "artists": {
+        "href": "https://api.spotify.com/v1/search?query=artist%3Aboards+of+canada&type=artist&offset=0&limit=10",
+        "items": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 298123
+                },
+                "genres": [
+                    "ambient",
+                    "big beat",
+                    "electronic",
+                    "fourth world",
+                    "intelligent dance music",
+                    "microhouse",
+                    "post-rock",
+                    "trip hop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/2VAvhf61GgLYmC6C8anyX1",
+                "id": "2VAvhf61GgLYmC6C8anyX1",
+                "images": [
+                    {
+                        "height": 902,
+                        "url": "https://i.scdn.co/image/c533bf6f08a42119065d8c2171cdfa8e96720b4c",
+                        "width": 1000
+                    },
+                    {
+                        "height": 578,
+                        "url": "https://i.scdn.co/image/c0b33a8d211600d70dcda3077d6a582da34321b0",
+                        "width": 640
+                    },
+                    {
+                        "height": 180,
+                        "url": "https://i.scdn.co/image/cefe6c830485f48e0d14c9c779d7bd61c8852161",
+                        "width": 199
+                    },
+                    {
+                        "height": 58,
+                        "url": "https://i.scdn.co/image/d178796bb8003ec506629e0e63939599cbaba85c",
+                        "width": 64
+                    }
+                ],
+                "name": "Boards of Canada",
+                "popularity": 61,
+                "type": "artist",
+                "uri": "spotify:artist:2VAvhf61GgLYmC6C8anyX1"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1ljkajHdpyk0INw4epd3sJ"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 46
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/artists/1ljkajHdpyk0INw4epd3sJ",
+                "id": "1ljkajHdpyk0INw4epd3sJ",
+                "images": [],
+                "name": "Christ (Boards of Canada)",
+                "popularity": 0,
+                "type": "artist",
+                "uri": "spotify:artist:1ljkajHdpyk0INw4epd3sJ"
+            }
+        ],
+        "limit": 10,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 2
+    }
+}
